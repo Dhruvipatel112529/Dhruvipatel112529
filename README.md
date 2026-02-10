@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhruvi Patel</h1>
-<h3 align="center">I am a student at Chimanbhai Patel institute of Computer Application.</h3>
+<h3 align="center">I am a student at Dr. Babasaheb Ambedkar Open University.</h3>
 
-- 🔭 I’m currently working on **React Js**
+- 🔭 I’m currently working on **Angular js, Express js, Laravel, Node js, PHP, SQL**
 
-- 🌱 I’m currently learning **ReactJs, Nextjs**
+- 🌱 I’m currently learning **Laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
